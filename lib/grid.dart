@@ -268,7 +268,7 @@ class _DemoState extends State<Demo> {
                               ),
                             ),
                               onPressed: (){
-                              print('fgbdrt');
+                              print('gbdrt');
                               Navigator.push(context, MaterialPageRoute(builder: (context) => Equipments()));
                               },
                             ),
